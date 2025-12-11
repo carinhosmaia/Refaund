@@ -1800,7 +1800,7 @@ body.loading-active {
   position: fixed;
   bottom: 0;
   left: 0;
-  right: 0; /* Garante que o margin: 0 auto funcione para centralizar */
+  right: 15; /* Garante que o margin: 0 auto funcione para centralizar */
   margin: 0 auto; /* Centraliza no desktop */
   width: 100%;
   max-width: 350px; /* Mesma largura do container principal (.saldo) */
